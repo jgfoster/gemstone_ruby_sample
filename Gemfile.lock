@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.9.0)
+    gemstone_ruby (0.1.2)
+      ffi (>= 1.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gemstone_ruby
